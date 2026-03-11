@@ -1,6 +1,6 @@
 # <- me, your local cat on catnip :3
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=30374&api_domain=hackatime.hackclub.com&theme=date_night&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8">
--# I set this shit up recently enough, if I get asked once again why is this empty
+I set this shit up recently enough, if I get asked once again why is this empty
 
 ## Games and stuff I like :3
 - [TETR.IO](https://tetr.io/) ([my user profile is here btw](https://ch.tetr.io/u/6524557b352f8b5da1dae59e))
